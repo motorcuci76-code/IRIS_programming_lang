@@ -1,4 +1,4 @@
-# IRIS Programming Language 👁️
+# IRIS Programming Language 
 
 > Inspired by Eye. Build For Code
 
