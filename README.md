@@ -9,19 +9,6 @@ IRIS is a lightweight, intuitive, and modern programming language designed for f
 - **Clean Syntax:** Minimalist and expressive design inspired by modern development workflows (`let`, `const`, `var`).
 - **Developer Friendly:** Human-readable output commands like `say` and `print`.
 
-## Quick Start / Syntax Examples
-
-IRIS 1.0 syntax:
-age {15}
-
-if{age >= 13}
-    say{"Access granted"}
-elseif{age >= 10}
-    say{"Limited access"}
-else
-    say{"Access denied"}
-end
-
 ## Installation & Requirements
 IRIS currently runs on Windows (x64) and requires `libcurl-4.dll` to be present in the same directory for web features.
 
